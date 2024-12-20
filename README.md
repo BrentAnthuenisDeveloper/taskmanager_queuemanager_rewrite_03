@@ -1,4 +1,5 @@
 # Usecase2
+## warning: this code cannot run without the right credentials in secrets.json
 ## to run the queue middleware
 ### after you clone the repo
 ### in windows
